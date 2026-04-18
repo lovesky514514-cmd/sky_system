@@ -1,0 +1,41 @@
+{
+    "zhanglu": [
+        {
+            "content": "我很喜欢猫，也喜欢蓝色",
+            "saved_at": "2026-04-19 00:01:40",
+            "summary": "我很喜欢猫，也喜欢蓝色",
+            "memory_type": "general_memory",
+            "importance_score": 70,
+            "keywords": [
+                "喜欢"
+            ],
+            "suggested_layer": "long_term",
+            "refine_source": "python_fallback"
+        },
+        {
+            "content": "我最近压力很大，晚上总睡不着",
+            "saved_at": "2026-04-19 00:01:48",
+            "summary": "我最近压力很大，晚上总睡不着",
+            "memory_type": "general_memory",
+            "importance_score": 70,
+            "keywords": [
+                "压力"
+            ],
+            "suggested_layer": "long_term",
+            "refine_source": "python_fallback"
+        },
+        {
+            "content": "我喜欢你",
+            "saved_at": "2026-04-19 01:01:32",
+            "summary": "我喜欢你",
+            "memory_type": "general_memory",
+            "importance_score": 70,
+            "keywords": [
+                "喜欢"
+            ],
+            "suggested_layer": "long_term",
+            "refine_source": "python_fallback"
+        }
+    ],
+    "sukoya": []
+}
